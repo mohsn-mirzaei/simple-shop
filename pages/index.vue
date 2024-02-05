@@ -1,14 +1,5 @@
 <template>
   <div>
-    <nav>
-      <NuxtLink to="/">Logo</NuxtLink>
-      <ul>
-        <li><NuxtLink to="/">Home</NuxtLink></li>
-        <li><NuxtLink to="/products">Products</NuxtLink></li>
-        <li><NuxtLink to="/about">About</NuxtLink></li>
-      </ul>
-    </nav>
-
     <h2>Home</h2>
     <p>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur
