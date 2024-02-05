@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav>
+    <nav class="flex justify-between">
       <NuxtLink to="/">Logo</NuxtLink>
       <ul>
         <li><NuxtLink to="/">Home</NuxtLink></li>
