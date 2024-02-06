@@ -7,10 +7,14 @@
       cupiditate repellat odit blanditiis quidem fuga ratione fugiat porro
       aliquid assumenda.
     </p>
+
+    <p>{{ data.message }}</p>
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+const { data } = useFetch("/api/testApi");
+</script>
 
 <style scoped>
 h2 {
