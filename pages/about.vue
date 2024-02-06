@@ -8,7 +8,10 @@
       aliquid assumenda.
     </p>
 
-    <p>{{ data.message }}</p>
+    <div class="flex gap-4">
+      <p>This message comes from api route: testApi</p>
+      <p>{{ data.message }}</p>
+    </div>
   </div>
 </template>
 
