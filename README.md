@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Nuxt.js Crash Course (Simple Shop)
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+**This Nuxt.js Crash Course Project was created through a tutorial, providing a hands-on learning experience to implement key Nuxt.js concepts and techniques.**
 
 ## Setup
 
@@ -71,5 +71,3 @@ yarn preview
 # bun
 bun run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
